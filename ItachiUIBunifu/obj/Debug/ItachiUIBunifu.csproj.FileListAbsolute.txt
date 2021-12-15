@@ -1,0 +1,28 @@
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ButtonBunifuItachi.resources
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.csproj.GenerateResource.Cache
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\bin\Debug\ItachiUIBunifu.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\bin\Debug\ItachiUIBunifu.pdb
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.dll
+C:\Users\Andrew\AppData\Local\Temporary Projects\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.pdb
+F:\ItachiUIBunifu\ItachiUIBunifu\bin\Debug\ItachiUIBunifu.dll
+F:\ItachiUIBunifu\ItachiUIBunifu\bin\Debug\ItachiUIBunifu.pdb
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ButtonBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.csproj.GenerateResource.Cache
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.dll
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.pdb
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ComboBoxBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.RadioButtonBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.DateTimePickerBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.Properties.Resources.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ProgressBarBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.PictureBoxBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.DropdownMenuBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.PictureBoxBunifuItachiAccound.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ElipForm.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.AppBar.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiBunifuUI.TextBoxBunifu.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ToggleButtonBunifuItachi.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.csproj.AssemblyReference.cache
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.ItachiBackDrop.resources
+F:\ItachiUIBunifu\ItachiUIBunifu\obj\Debug\ItachiUIBunifu.csproj.CoreCompileInputs.cache

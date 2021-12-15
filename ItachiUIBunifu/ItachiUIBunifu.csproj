@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92951DE0-A701-4E07-9BE2-C35C42731107}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ItachiUIBunifu</RootNamespace>
+    <AssemblyName>ItachiUIBunifu</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ButtonBunifuItachi.Designer.cs">
+      <DependentUpon>ButtonBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComboBoxBunifuItachi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ComboBoxBunifuItachi.Designer.cs">
+      <DependentUpon>ComboBoxBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DateTimePickerBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DateTimePickerBunifuItachi.Designer.cs">
+      <DependentUpon>DateTimePickerBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DropdownMenuBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DropdownMenuBunifuItachi.Designer.cs">
+      <DependentUpon>DropdownMenuBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ElipForm.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ElipForm.Designer.cs">
+      <DependentUpon>ElipForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ItachiBackDrop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuColorTable.cs" />
+    <Compile Include="MenuRenderer.cs" />
+    <Compile Include="PictureBoxBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PictureBoxBunifuItachi.Designer.cs">
+      <DependentUpon>PictureBoxBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PictureBoxBunifuItachiAccound.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PictureBoxBunifuItachiAccound.Designer.cs">
+      <DependentUpon>PictureBoxBunifuItachiAccound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProgressBarBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressBarBunifuItachi.Designer.cs">
+      <DependentUpon>ProgressBarBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RadioButtonBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RadioButtonBunifuItachi.Designer.cs">
+      <DependentUpon>RadioButtonBunifuItachi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TextBoxBunifu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TextBoxBunifu.designer.cs">
+      <DependentUpon>TextBoxBunifu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AppBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AppBar.Designer.cs">
+      <DependentUpon>AppBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ToggleButtonBunifuItachi.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ToggleButtonBunifuItachi.Designer.cs">
+      <DependentUpon>ToggleButtonBunifuItachi.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ButtonBunifuItachi.resx">
+      <DependentUpon>ButtonBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ComboBoxBunifuItachi.resx">
+      <DependentUpon>ComboBoxBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DateTimePickerBunifuItachi.resx">
+      <DependentUpon>DateTimePickerBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DropdownMenuBunifuItachi.resx">
+      <DependentUpon>DropdownMenuBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ElipForm.resx">
+      <DependentUpon>ElipForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ItachiBackDrop.resx">
+      <DependentUpon>ItachiBackDrop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureBoxBunifuItachi.resx">
+      <DependentUpon>PictureBoxBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PictureBoxBunifuItachiAccound.resx">
+      <DependentUpon>PictureBoxBunifuItachiAccound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressBarBunifuItachi.resx">
+      <DependentUpon>ProgressBarBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RadioButtonBunifuItachi.resx">
+      <DependentUpon>RadioButtonBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TextBoxBunifu.resx">
+      <DependentUpon>TextBoxBunifu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AppBar.resx">
+      <DependentUpon>AppBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ToggleButtonBunifuItachi.resx">
+      <DependentUpon>ToggleButtonBunifuItachi.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_planner_16px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_planner_16px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\2482540121_1476112136.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
